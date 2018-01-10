@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "caching lib",
   "main": "lib/index.js",
-  "types": "lib/index.js",
+  "types": "lib/index.d.ts",
   "directories": {
     "example": "examples"
   },
