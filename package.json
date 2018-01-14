@@ -1,6 +1,6 @@
 {
-  "name": "@sarah.js/memory",
-  "version": "0.0.2",
+  "name": "@sarahjs/memory",
+  "version": "0.0.1",
   "description": "caching lib",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
