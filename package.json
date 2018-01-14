@@ -1,5 +1,5 @@
 {
-  "name": "sarah.js-memory",
+  "name": "@sarah.js/memory",
   "version": "0.0.2",
   "description": "caching lib",
   "main": "lib/index.js",
