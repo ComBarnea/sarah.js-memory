@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/ComBarnea/sarah.js#readme",
   "dependencies": {
-    "@sarahjs/core": "0.0.1",
+    "@sarahjs/core": "0.0.2",
     "typescript": "^2.5.3"
   },
   "devDependencies": {
