@@ -1,4 +1,4 @@
-import { ICacheProvider, ICacheProviderOptions, CacheProvider } from 'sarah.js';
+import { ICacheProvider, ICacheProviderOptions, CacheProvider } from '@sarahjs/core';
 /**
  * Controll caches lifetime.
  */
